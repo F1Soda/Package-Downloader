@@ -1,0 +1,16 @@
+# .NET Runtimes
+Microsoft.DotNet.DesktopRuntime.9
+Microsoft.DotNet.DesktopRuntime.8
+Microsoft.DotNet.DesktopRuntime.6
+
+# .NET SDK
+Microsoft.DotNet.SDK.6
+Microsoft.DotNet.SDK.8
+Microsoft.DotNet.SDK.9
+
+# Python
+Python.Python.3.12
+
+# Visual C++ Redistributables
+Microsoft.VCRedist.2015+.x64
+Microsoft.VCRedist.2015+.x86
