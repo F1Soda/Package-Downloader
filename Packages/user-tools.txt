@@ -5,4 +5,4 @@ Espanso.Espanso
 OBSProject.OBSStudio
 Microsoft.PowerToys
 AntibodySoftware.WizTree
-GIMP.GIMP
+GIMP.GIMP.3s
