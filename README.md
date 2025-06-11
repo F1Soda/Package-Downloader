@@ -1,0 +1,21 @@
+# Package Downloader
+
+Автоматический устанавливает пакеты приложений с помощью `winget`
+
+## Использование
+
+1. Можно запустить скрипт powershell указав txt файлы с id пакетов для установки.
+
+`powershell -ExecutionPolicy Bypass -File "install-apps.ps1" -PackageFilePaths ".\Packages\other.txt .\Packages\base.txt"`
+
+2. Запустить от имени администратора батник, который установит все пакеты из файлов в папке `Packages`.
+
+## Формат данных
+
+```bash
+# Это комментарий
+Git.Git 
+
+# Приложение для быстрого поиска файлов/папок в системе
+voidtools.Everything
+```

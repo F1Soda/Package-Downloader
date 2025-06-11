@@ -1,0 +1,4 @@
+Telegram.TelegramDesktop
+Mozilla.Firefox
+Obsidian.Obsidian
+Anki.Anki

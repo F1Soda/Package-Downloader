@@ -1,0 +1,8 @@
+CrystalRich.LockHunter
+voidtools.Everything
+RARLab.WinRAR
+Espanso.Espanso
+OBSProject.OBSStudio
+Microsoft.PowerToys
+AntibodySoftware.WizTree
+GIMP.GIMP

@@ -1,0 +1,5 @@
+SublimeHQ.SublimeText.4
+Microsoft.VisualStudioCode
+JetBrains.Rider
+JetBrains.WebStorm
+JetBrains.PyCharm.Community
